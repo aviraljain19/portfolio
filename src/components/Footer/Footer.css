@@ -1,0 +1,12 @@
+footer {
+  background-color: #111e38;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.links-container i {
+  font-size: 1.5rem;
+  margin: 10px;
+  color: #fcb212;
+}
