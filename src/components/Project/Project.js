@@ -8,6 +8,16 @@ const Project = () => {
         My <span>Projects</span>
       </h3>
       <div className="project-list-container">
+        <a href="https://github.com/aviraljain19/income-expense-tracker">
+          <div className="project-card">
+            <i className="fa-solid fa-laptop"></i>
+            <p className="title">Income Expense Tracker</p>
+            <p className="description">
+              A basic yet intuitive web-based income-expense tracker application
+              with a clean and user-friendly interface.
+            </p>
+          </div>
+        </a>
         <a href="https://github.com/aviraljain19/Fullstack_blog">
           <div className="project-card">
             <i className="fa-solid fa-blog"></i>

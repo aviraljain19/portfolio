@@ -41,7 +41,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="https://drive.google.com/file/d/1lL_s_y4NrnOXvVgfagAE4AmfN8SfT59Y/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1XH_3M9USQZ-il0KRDh-97MeWkt_AutvE/view?usp=sharing"
               onClick={toggleMenu}
               target="blank"
             >
